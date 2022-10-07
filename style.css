@@ -21,7 +21,7 @@ body::before {
   top: 0;
   left: 0;
   z-index: -1;
-  background-image: url(./background-img.jpg);
+  background-image: url(./img/background-img.jpg);
   background-repeat: no-repeat;
 }
 
