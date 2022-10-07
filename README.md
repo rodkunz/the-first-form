@@ -1,6 +1,6 @@
 # 🚀 Trilha Explorer
 
-![preview](./github/Crie%20seu%20evento%20-%20Brave%202022-10-06%2017-42-01.mp4)
+![preview](./github/preview.png)
 
 > Projeto desenvolvido durante o curso Explorer pela Rocketseat!
 
